@@ -1,0 +1,61 @@
+.slot-box-header.data-v-1cf27b2a {
+  height: 150rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.slot-box-body.data-v-1cf27b2a {
+  height: 150rpx;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-self: flex-start;
+}
+.slot-box-footer.data-v-1cf27b2a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 15rpx;
+  flex-direction: column;
+  height: 150rpx;
+  font-size: 20rpx;
+}
+.listBar.data-v-1cf27b2a {
+  width: 100%;
+  height: 170rpx;
+  background-color: white;
+  margin-bottom: 10rpx;
+}
+.topBar.data-v-1cf27b2a {
+  padding-top: 20rpx;
+  background-color: white;
+}
+.grid-item.data-v-1cf27b2a {
+  margin-bottom: 20rpx;
+}
+.grid-item-box.data-v-1cf27b2a {
+  display: flex;
+  flex-direction: column;
+  margin: auto auto;
+  box-sizing: border-box;
+}
+.grid-item-box-bg.data-v-1cf27b2a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100rpx;
+  height: 100rpx;
+  background-color: #eee;
+  border-radius: 100rpx;
+}
+.grid-item-box-text.data-v-1cf27b2a {
+  text-align: center;
+  padding-top: 10rpx;
+  font-size: 18rpx !important;
+}
+.chooseBar.data-v-1cf27b2a {
+  font-size: 30rpx;
+  text-align: center;
+  height: 80rpx;
+  line-height: 80rpx;
+}

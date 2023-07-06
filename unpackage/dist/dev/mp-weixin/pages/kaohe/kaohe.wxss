@@ -1,0 +1,18 @@
+.top.data-v-1f30b608 {
+  height: 100rpx;
+  padding-top: 20rpx;
+}
+.top-row-col.data-v-1f30b608 {
+  text-align: center;
+}
+.top-row-col text.data-v-1f30b608 {
+  font-size: 20rpx;
+}
+.body.data-v-1f30b608 {
+  margin-top: 20rpx;
+  background-color: white;
+}
+.charts-box.data-v-1f30b608 {
+  background-color: white;
+  height: 600rpx;
+}
